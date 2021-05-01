@@ -1,0 +1,15 @@
+{
+  "name": "3110-js-demo",
+  "version": "0.1.0",
+  "description": "A demo of JavaScript for the 3110 ed",
+  "main": "main.js",
+  "bin": {
+    "sayhello": "./main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "Will Barkoff",
+  "license": "MIT"
+}
